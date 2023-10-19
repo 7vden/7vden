@@ -1,4 +1,4 @@
-### Hi there 👋
+• 7vden's Intro •
 
 <!--
 **7vden/7vden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
