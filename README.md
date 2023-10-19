@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 7vden</h1>
 <h3 align="center">I'm a starter developer learning how to become a good coder! I am a gay male that uses any pronouns. My favorite things to do are singing/song writing, coding, sleeping, and eating! My favorite animal are cats, I actually have a cat named simba and he is the best cat ever!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7vden&label=Profile%20views&color=0e75b6&style=flat" alt="7vden" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=7vden&label=Profile%20views&color=0e75b6&style=flat" alt="7vden" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
