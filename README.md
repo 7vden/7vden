@@ -4,7 +4,7 @@ Hey, I'm [Jaden](https://github.com/7vden)
 
 ### About me
 
--  **Working on:** [**Fazed**] with [**@nxsi**](https://github.com/n-xsi)
+-  **Working on:** **__Fazed__** with [**@nxsi**](https://github.com/n-xsi)
 
 ### Discord
 
