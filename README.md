@@ -4,7 +4,7 @@ Hey, I'm [Jaden](https://github.com/7vden)
 
 ### About me
 
--  **Working on:** **__Fazed__** with [**@wik3d**](https://github.com/wik3d)
+-  **Working on:** **__Fazed__** with [**@wik3d**](https://github.com/wik3d) & [**@n-xsi**](https://github.com/n-xsi)
 
 ### Discord
 
