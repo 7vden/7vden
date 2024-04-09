@@ -18,7 +18,7 @@ Hey, I'm [Jaden](https://github.com/7vden)
 
 ---
 
-[<img src="https://shields.io/badge/TypeScript-c2a589?logo=TypeScript&logoColor=%23ffffff&style=for-the-badge" />](https://www.typescriptlang.org/) 
+[<img src="https://shields.io/badge/TypeScript-c2a589?logo=TypeScript&logoColor=%23696969f&style=for-the-badge" />](https://www.typescriptlang.org/) 
 [<img src="https://img.shields.io/badge/javascript-%23c2a589.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />](https://www.javascript.com/)
 [<img src="https://img.shields.io/badge/python-c2a589?style=for-the-badge&logo=python&logoColor=ffffff" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/MongoDB-%23c2a589.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff"/>](https://www.mongodb.com/)
