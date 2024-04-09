@@ -1,4 +1,4 @@
-Hey, I'm [Jaden](https://github.com/7vden)
+👋 Hey, I'm [Jaden](https://github.com/7vden)
 ----------------------------------------------------------
 
 
