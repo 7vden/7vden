@@ -12,13 +12,13 @@
 
 ---
 
-[<img src="https://shields.io/badge/TypeScript-696969?logo=TypeScript&logoColor=%23ffffff&style=for-the-badge" />](https://www.typescriptlang.org/) 
-[<img src="https://img.shields.io/badge/javascript-%23696969.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />](https://www.javascript.com/)
-[<img src="https://img.shields.io/badge/python-696969?style=for-the-badge&logo=python&logoColor=ffffff" />](https://www.python.org/)
-[<img src="https://img.shields.io/badge/MongoDB-%23696969.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff"/>](https://www.mongodb.com/)
-[<img src="https://img.shields.io/badge/node.js-696969?style=for-the-badge&logo=node.js&logoColor=ffffff"/>](https://nodejs.org/en/) 
-[<img src="https://img.shields.io/badge/html5-%23696969.svg?style=for-the-badge&logo=html5&logoColor=ffffff"/>](https://www.w3schools.com/html/) 
-[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-696969.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"/>](https://code.visualstudio.com/) 
+[<img src="https://shields.io/badge/TypeScript-696969?logo=TypeScript&logoColor=%23D7BA91&style=for-the-badge" />](https://www.typescriptlang.org/) 
+[<img src="https://img.shields.io/badge/javascript-%23696969.svg?style=for-the-badge&logo=javascript&logoColor=%23D7BA91" />](https://www.javascript.com/)
+[<img src="https://img.shields.io/badge/python-696969?style=for-the-badge&logo=python&logoColor=D7BA91" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/MongoDB-%23696969.svg?style=for-the-badge&logo=mongodb&logoColor=D7BA91"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/node.js-696969?style=for-the-badge&logo=node.js&logoColor=D7BA91"/>](https://nodejs.org/en/) 
+[<img src="https://img.shields.io/badge/html5-%23696969.svg?style=for-the-badge&logo=html5&logoColor=D7BA91"/>](https://www.w3schools.com/html/) 
+[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-696969.svg?style=for-the-badge&logo=visual-studio-code&logoColor=D7BA91"/>](https://code.visualstudio.com/) 
 
 
 
