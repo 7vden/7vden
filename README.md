@@ -10,12 +10,6 @@ Hey, I'm [Jaden](https://github.com/7vden)
 
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=jadengrande%230&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/930168202892292096) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=fazed%234339&logoColor=FFFFFF&color=2f3136" />](https://discordapp.com/users/1223486252917985291)
 
-### Languages & Tools
-<a href="#">
-  <img align="center" alt="top-langs" src="https://github-readme-stats-1m9e-3ecy1zqod-7vden.vercel.app/api/top-langs?username=7vden&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
-</a>
-
-
 ---
 
 [<img src="https://shields.io/badge/TypeScript-696969?logo=TypeScript&logoColor=%23ffffff&style=for-the-badge" />](https://www.typescriptlang.org/) 
