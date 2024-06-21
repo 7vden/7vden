@@ -17,7 +17,6 @@
 [<img src="https://img.shields.io/badge/python-696969?style=for-the-badge&logo=python&logoColor=D7BA91" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/MongoDB-%23696969.svg?style=for-the-badge&logo=mongodb&logoColor=D7BA91"/>](https://www.mongodb.com/)
 [<img src="https://img.shields.io/badge/node.js-696969?style=for-the-badge&logo=node.js&logoColor=D7BA91"/>](https://nodejs.org/en/) 
-[<img src="https://img.shields.io/badge/html5-%23696969.svg?style=for-the-badge&logo=html5&logoColor=D7BA91"/>](https://www.w3schools.com/html/) 
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-696969.svg?style=for-the-badge&logo=visual-studio-code&logoColor=D7BA91"/>](https://code.visualstudio.com/) 
 
 
