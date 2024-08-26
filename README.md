@@ -4,7 +4,7 @@
 
 ### About me
 
--  **Working on:** **__Fazed__** with [**@wik3d**](https://github.com/wik3d) & [**@n-xsi**](https://github.com/n-xsi).
+-  **Working on:** **__Streak__** with [**@n-xsi**](https://github.com/n-xsi).
 
 ### Discord
 
