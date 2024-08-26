@@ -8,7 +8,7 @@
 
 ### Discord
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=jadoons%230&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/930168202892292096) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=streak%234339&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1276800525249155112)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=jadoons%230&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/930168202892292096) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=streak%234266&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1276800525249155112)
 
 ---
 
