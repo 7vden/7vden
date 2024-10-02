@@ -4,7 +4,7 @@
 
 ### About me
 
--  **Working on:** **__Streak__**.
+-  **Working on:** **__[Streak](https://discord.gg/streak)__**.
 
 ### Discord
 
