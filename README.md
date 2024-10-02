@@ -4,7 +4,7 @@
 
 ### About me
 
--  **Working on:** **__Streak__** with [**@n-xsi**](https://github.com/n-xsi).
+-  **Working on:** **__Streak__**.
 
 ### Discord
 
