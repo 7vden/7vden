@@ -4,11 +4,11 @@
 
 ### About me
 
--  **Working on:** **__[echo](https://discord.gg/echobot)__**.
+-  **Working on:** **__[mist](https://mist.lol/)__**.
 
 ### Discord
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=jadoons%230&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/930168202892292096) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=echo'%238467&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1349252054526201906)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=hellokittyfemboy%230&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1287511694175764585) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=mist'%238467&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1477394847026380811)
 
 ---
 
