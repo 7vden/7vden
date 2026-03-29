@@ -4,11 +4,11 @@
 
 ### About me
 
--  **Working on:** **__[suna](https://suna.lol/)__**.
+-  **Working on:** **__[laribot](https://laribot.lol/)__**.
 
 ### Discord
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=hellokittyfemboy&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1287511694175764585) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=suna%235939&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1477394847026380811)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=hellokittyfemboy&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1287511694175764585) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=laribot%235939&logoColor=D7BA91&color=2f3136" />](https://discordapp.com/users/1477394847026380811)
 
 ---
 
